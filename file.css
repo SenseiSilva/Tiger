@@ -44,6 +44,10 @@
 	  min-height:150px;
 }
 
+p {
+	margin-top: 40px;
+}
+
 .dark_blue {
   background-color: #FEF143;
 }
