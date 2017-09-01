@@ -20,6 +20,13 @@
   display: inline-table;
 }
 
+.box4 {
+  min-height: 50vh;
+  width: 48%;
+  margin: auto;
+  display: inline-table;
+}
+
 .white {
 	  background-color: #fff;
 	  min-height:150px;
