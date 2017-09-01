@@ -9,6 +9,7 @@
   min-height: 300vh;
   width: 50%;
   margin: auto;
+  display: inline-table;
 }
 
 .white {
