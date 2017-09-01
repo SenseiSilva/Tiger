@@ -1,13 +1,21 @@
 
 .box {
   min-height: 100px;
-  width: 25%;
+  width: 35%;
   margin: auto;
+  display: inline-table;
 }
 
 .box2 {
   min-height: 200vh;
-  width: 30%;
+  width: 50%;
+  margin: auto;
+  display: inline-table;
+}
+
+.box3 {
+  min-height: 200vh;
+  width: 15%;
   margin: auto;
   display: inline-table;
 }
