@@ -4,6 +4,7 @@
   width: 28%;
   margin: auto;
   display: inline-table;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .box2 {
@@ -11,6 +12,7 @@
   width: 51%;
   margin: auto;
   display: inline-table;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .box3 {
@@ -18,6 +20,7 @@
   width: 20%;
   margin: auto;
   display: inline-table;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .box4 {
@@ -25,6 +28,7 @@
   width: 48%;
   margin: auto;
   display: inline-table;
+  box-shadow: 10px 10px 5px #888888;
 }
 
 .white {
