@@ -5,6 +5,12 @@
   margin: auto;
 }
 
+.box2 {
+  min-height: 300vh;
+  width: 50%;
+  margin: auto;
+}
+
 .white {
 	  background-color: #fff;
 	  min-height:150px;
