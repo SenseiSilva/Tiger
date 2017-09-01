@@ -8,7 +8,7 @@
 
 .box2 {
   min-height: 50vh;
-  width: 50%;
+  width: 51%;
   margin: auto;
   display: inline-table;
 }
@@ -35,4 +35,12 @@
 
 .green {
   background-color: #FB5734;
+}
+
+.gray {
+  background-color: #FBFAF8;
+}
+
+.char {
+  background-color: #3D3739;
 }
