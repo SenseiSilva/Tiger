@@ -6,8 +6,8 @@
 }
 
 .box2 {
-  min-height: 300vh;
-  width: 50%;
+  min-height: 250vh;
+  width: 30%;
   margin: auto;
   display: inline-table;
 }
