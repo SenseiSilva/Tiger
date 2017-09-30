@@ -212,6 +212,77 @@
 	}
 }
 
+@media screen and (max-width: 350px) {
+	
+	.box1 {
+		min-height: 10vh;
+		width: 98%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
+
+	.box2 {
+		min-height: 10vh;
+		width: 98%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
+
+	.box3 {
+		min-height: 10vh;
+		width: 98%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
+
+	.box4 {
+		min-height: 10vh;
+		width: 98%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
+
+	.box5 {
+		min-height: 10vh;
+		width: 98%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
+
+	.white {
+		background-color: #fff;
+		min-height:10px;
+	}
+
+	h2 {
+		margin-top: 50px;
+		font-family: "Comic Sans MS", cursive, sans-serif
+		text: center;
+		text-decoration: underline;
+		vertical-align: middle;
+		position: relative;
+	}
+
+	.Aligner {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.font1 {
+		font-family: "Lucida Console", Monaco, monospace
+	}
+
+	.font2 {
+		font-family: "Courier New", Courier, monospace
+	}
+}
+
 .dark_blue {
   background-color: #FEF143;
 }
