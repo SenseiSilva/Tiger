@@ -98,7 +98,7 @@
 
 	.box4 {
 		min-height: 45vh;
-		width: 48%;
+		width: 98%;
 		margin: auto;
 		display: inline-table;
 		box-shadow: 5px 5px 8px #474546;
@@ -106,7 +106,7 @@
 
 	.box5 {
 		min-height: 60vh;
-		width: 98%;
+		width: 48%;
 		margin: auto;
 		display: inline-table;
 		box-shadow: 5px 5px 8px #474546;
