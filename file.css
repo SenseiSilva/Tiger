@@ -1,70 +1,73 @@
 
-.box1 {
-  min-height: 30vh;
-  width: 28%;
-  margin: auto;
-  display: inline-table;
-  box-shadow: 5px 5px 8px #474546;
-}
+@media screen and (max-width: 1081px) {
+	
+	.box1 {
+		min-height: 30vh;
+		width: 28%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
 
-.box2 {
-  min-height: 30vh;
-  width: 53%;
-  margin: auto;
-  display: inline-table;
-  box-shadow: 5px 5px 8px #474546;
-}
+	.box2 {
+		min-height: 30vh;
+		width: 53%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
 
-.box3 {
-  min-height: 30vh;
-  width: 18%;
-  margin: auto;
-  display: inline-table;
-  box-shadow: 5px 5px 8px #474546;
-}
+	.box3 {
+		min-height: 30vh;
+		width: 18%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
 
-.box4 {
-  min-height: 64vh;
-  width: 46%;
-  margin: auto;
-  display: inline-table;
-  box-shadow: 5px 5px 8px #474546;
-}
+	.box4 {
+		min-height: 64vh;
+		width: 46%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
 
-.box5 {
-  min-height: 64vh;
-  width: 53%;
-  margin: auto;
-  display: inline-table;
-  box-shadow: 5px 5px 8px #474546;
-}
+	.box5 {
+		min-height: 64vh;
+		width: 53%;
+		margin: auto;
+		display: inline-table;
+		box-shadow: 5px 5px 8px #474546;
+	}
 
-.white {
-	  background-color: #fff;
-	  min-height:10px;
-}
+	.white {
+		background-color: #fff;
+		min-height:10px;
+	}
 
-h2 {
-	margin-top: 80px;
-	font-family: "Comic Sans MS", cursive, sans-serif
-	text: center;
-	text-decoration: underline;
-	vertical-align: middle;
-	position: relative;
-}
+	h2 {
+		margin-top: 80px;
+		font-family: "Comic Sans MS", cursive, sans-serif
+		text: center;
+		text-decoration: underline;
+		vertical-align: middle;
+		position: relative;
+	}
 
-.Aligner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+	.Aligner {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
 
-.font1 {
-	font-family: "Lucida Console", Monaco, monospace
-}
+	.font1 {
+		font-family: "Lucida Console", Monaco, monospace
+	}
 
-.font2 {
-	font-family: "Courier New", Courier, monospace
+	.font2 {
+		font-family: "Courier New", Courier, monospace
+	}
 }
 
 .dark_blue {
@@ -85,4 +88,5 @@ h2 {
 
 .purp {
   background-color: #F351FF;
+}
 }
