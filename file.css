@@ -73,7 +73,7 @@
 @media screen and (max-width: 899px) {
 	
 	.box1 {
-		min-height: 30vh;
+		min-height: 20vh;
 		width: 48%;
 		margin: auto;
 		display: inline-table;
@@ -81,7 +81,7 @@
 	}
 
 	.box2 {
-		min-height: 30vh;
+		min-height: 20vh;
 		width: 48%;
 		margin: auto;
 		display: inline-table;
@@ -89,7 +89,7 @@
 	}
 
 	.box3 {
-		min-height: 45vh;
+		min-height: 30vh;
 		width: 96%;
 		margin: auto;
 		display: inline-table;
@@ -97,7 +97,7 @@
 	}
 
 	.box4 {
-		min-height: 45vh;
+		min-height: 35vh;
 		width: 48%;
 		margin: auto;
 		display: inline-table;
@@ -105,7 +105,7 @@
 	}
 
 	.box5 {
-		min-height: 45vh;
+		min-height: 35vh;
 		width: 48%;
 		margin: auto;
 		display: inline-table;
